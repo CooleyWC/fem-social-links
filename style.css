@@ -103,6 +103,10 @@ body {
     color: var(--clr--dark-grey)
 }
 
+.links ul button:focus {
+    outline: 2px solid var(--clr--green);
+}
+
 @media (max-width: 300px){
     .card {
         padding: 0 15px;
