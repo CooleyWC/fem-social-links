@@ -59,7 +59,7 @@ body {
     letter-spacing: 0.05rem;
 }
 
-.profile-section h4 {
+.profile-section h2 {
     font-size: 0.85rem;
     margin-top: 0.5rem;
     color: var(--clr--green);
